@@ -2,7 +2,6 @@
 
  - Full-stack software developer
  - Recently Graduated Honours Computer Science with First
- - Currently Employeed at Fleet Factors
  - Interested in Security and Computer Games
 
 # Contact
