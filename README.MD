@@ -1,7 +1,7 @@
 # About Me
 
  - Full-stack software developer
- - Recently Graduated Honours Computer Science with First
+ - Graduated Computer Science with First Honours
  - Interested in Security and Computer Games
 
 # Contact
